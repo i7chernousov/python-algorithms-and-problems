@@ -4,7 +4,7 @@ find its opposite (additive inverse).
 """
 
 def opposite(number: float) -> float:
-    """ Функция dозвращает аддитивную противоположность числа (меняет знак)"""
+    """Функция возвращает аддитивную противоположность числа (меняет знак)"""
     return -number
 
 
